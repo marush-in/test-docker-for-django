@@ -97,8 +97,14 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+#mac
+.DS_Store
+
 # mkdocs documentation
 /site
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode
